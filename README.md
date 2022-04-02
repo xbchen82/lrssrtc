@@ -3,7 +3,7 @@
 
 the code of lrssrtc  
 
-### Implementation of our paper "A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network"  
+### Implementation of our paper "A Novel Spatiotemporal Data Low-rank Imputation Approach for Traffic Sensor Network".  
 
 -------------
 
